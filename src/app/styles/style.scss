@@ -1,0 +1,13 @@
+@use 'variables' as v;
+
+body {
+  background-color: #ee5a24;
+}
+
+h1 {
+  color: v.$color1;
+}
+
+p {
+  color: #0652dd;
+}
